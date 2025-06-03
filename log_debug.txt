@@ -1,0 +1,341 @@
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => brrrr
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => ayuu
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => wisuu
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => wisuu
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => wisuu
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => @Sachrbx_1257 lucuu
+    [parent_id] => 70
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => w
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => w
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => w
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => 2
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => @Sachrbx_1257asdasd
+    [parent_id] => 48
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => xixixixi
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 7
+    [komentar] => @Sachrbx_1257 akhirnyaaaaa
+    [parent_id] => 77
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 7
+    [komentar] => @Sachrbx_1257 coba kalo misal nya bakalan sepanjang apa klo kayak gini
+    [parent_id] => 77
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 7
+    [komentar] => @Sachrbx_1257 coba mau tes lagi, kalo sepanjang ini gimana
+    [parent_id] => 77
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 7
+    [komentar] => @Sachrbx_1257 testt
+    [parent_id] => 77
+)
+Array
+(
+    [id_thread] => 25
+    [id_account] => 25
+    [komentar] => @admin halloooo
+    [parent_id] => 32
+)
+Array
+(
+    [id_thread] => 25
+    [id_account] => 25
+    [komentar] => @admin cobain like
+    [parent_id] => 32
+)
+Array
+(
+    [id_thread] => 25
+    [id_account] => 25
+    [komentar] => testing
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => @Sachrbx_1257 masih bisa kah?
+    [parent_id] => 48
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => mwehehehe
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 27
+    [komentar] => @Sachrbx_1257 ciaoo
+    [parent_id] => 86
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => cobain
+    [parent_id] => 48
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 27
+    [komentar] => @Sachrbx_1257 huwaaa ini gimana
+    [parent_id] => 86
+)
+Array
+(
+    [id_thread] => 26
+    [id_account] => 6
+    [komentar] => test
+)
+Array
+(
+    [id_thread] => 26
+    [id_account] => 26
+    [komentar] => @Sachrbx_1257 hewrrooo
+    [parent_id] => 90
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => @Sachrbx_1257 test
+    [parent_id] => 86
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => haawooo
+)
+Array
+(
+    [id_thread] => 25
+    [id_account] => 25
+    [komentar] => hawooo
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 27
+    [komentar] => @Sachrbx_1257 heooo
+    [parent_id] => 93
+)
+Array
+(
+    [id_thread] => 26
+    [id_account] => 26
+    [komentar] => @Sachrbx_1257 hewoo
+    [parent_id] => 90
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => @Sachrbx_1257 heojodw
+    [parent_id] => 93
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 27
+    [komentar] => @Sachrbx_1257 aaaa
+    [parent_id] => 93
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => heeeerroooowww
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => @Sachrbx_1257 haaaiii
+    [parent_id] => 99
+)
+Array
+(
+    [id_thread] => 26
+    [id_account] => 6
+    [komentar] => brrrr
+)
+Array
+(
+    [id_thread] => 26
+    [id_account] => 26
+    [komentar] => @Sachrbx_1257 popipopipo
+    [parent_id] => 101
+)
+Array
+(
+    [id_thread] => 26
+    [id_account] => 6
+    [komentar] => @Sachrbx_1257 po pi po pi po
+    [parent_id] => 101
+)
+Array
+(
+    [id_thread] => 26
+    [id_account] => 6
+    [komentar] => @Sachrbx_1257 po pipo
+    [parent_id] => 101
+)
+Array
+(
+    [id_thread] => 26
+    [id_account] => 6
+    [komentar] => aowidnioamck
+)
+Array
+(
+    [id_thread] => 26
+    [id_account] => 6
+    [komentar] => @Sachrbx_1257 hsaihsidwmd
+    [parent_id] => 105
+)
+Array
+(
+    [id_thread] => 26
+    [id_account] => 6
+    [komentar] => @Sachrbx_1257 halo
+    [parent_id] => 90
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => @Sachrbx_1257 nigga
+    [parent_id] => 48
+)
+Array
+(
+    [id_thread] => 9
+    [id_account] => 6
+    [komentar] => suka suka
+)
+Array
+(
+    [id_thread] => 27
+    [id_account] => 6
+    [komentar] => @labligko halo halooo
+    [parent_id] => 39
+)
+Array
+(
+    [id_thread] => 29
+    [id_account] => 6
+    [komentar] => testing komen
+)
+Array
+(
+    [id_thread] => 29
+    [id_account] => 6
+    [komentar] => @Sachrbx_1257 haawwowoo
+    [parent_id] => 111
+)
+Array
+(
+    [id_thread] => 31
+    [id_account] => 6
+    [komentar] => hmmm
+)
+Array
+(
+    [id_thread] => 31
+    [id_account] => 6
+    [komentar] => @Sachrbx_1257 test
+    [parent_id] => 113
+)
+Array
+(
+    [id_thread] => 84
+    [id_account] => 15
+    [komentar] => hello
+)
+Array
+(
+    [id_thread] => 85
+    [id_account] => 6
+    [komentar] => cool
+)
+Array
+(
+    [id_thread] => 85
+    [id_account] => 8
+    [komentar] => @Sachrbx_1257 halo
+    [parent_id] => 116
+)

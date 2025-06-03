@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+.lilita-one-regular {
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sidebar {
+  overflow-x: hidden;
+  position: fixed;
+  height: 100%;
+  background-color: #343a40;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.sidebar a {
+  color: white;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.sidebar a:hover {
+  background-color: #464d54;
+}
+
+.sidebar i {
+  margin-right: 10px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin-bottom: 15px;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: #55596C;
+}
+
+.badge {
+  margin-left: 5px;
+}
+
+.dropdown-toggle::after {
+  display: none;
+}
+
+.list-unstyled .dropdown-item i {
+  margin-right: 10px;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: static;
+    padding: 20px 10px;
+  }
+
+  .sidebar h1 {
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
+  .sidebar ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  #tambah {
+    width: auto;
+    position: static;
+  }
+
+  #searchPopup .modal-content,
+  #notificationPopup .modal-content {
+    max-width: 90%;
+    position: fixed;
+    top: 30px;
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "user/unitalk",
+    "autoload": {
+        "psr-4": {
+            "User\\Unitalk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "labligko",
+            "email": "labligko@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
