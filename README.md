@@ -25,4 +25,3 @@ Pengguna dapat mendaftar, membuat postingan, memberi komentar, dan menyukai post
 3. Buat database MySQL dan import file Unitalk.sql
 4. Atur koneksi database di file konfigurasi (config/db.php)
 5. Jalankan proyek di browser melalui: http://localhost/unitalk
-6. 
